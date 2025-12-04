@@ -1,4 +1,4 @@
-## 🎬 IPCV Assignment 2: From Basic Computer Vision to Advanced Object Detection
+## 🎬 IPCV Individual Assignment: From Basic Computer Vision to Advanced Object Detection
 
 **Overview**
 This repository contains the implementation and final output video for IPCV Assignment 2, which explores a complete computer-vision workflow applied to a 1-minute self-recorded video.
