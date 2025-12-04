@@ -30,11 +30,13 @@ The goal is to demonstrate fundamental image processing, frequency-domain filter
      - University of Twente logo
      - Student ID photo
        
-  b. Student Card Region Extraction
+   b. Student Card Region Extraction
+   
     - Detected card region using contour-based localization
     - Cropped the card area for improved matching
     
-  c. Optical Flow Tracking
+   c. Optical Flow Tracking
+  
     - Computed motion of feature points between frames
     - Visualized motion using directional arrows
       
