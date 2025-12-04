@@ -24,23 +24,26 @@ The goal is to demonstrate fundamental image processing, frequency-domain filter
    - Inverse Fourier Transform to reconstruct filtered frames
      
 4. Part 3 (20–40s): Object Detection on Student Card
+   
    a. Template-Based Detection: Performed template-based matching to locate each item
      - S-number digits
      - University of Twente logo
      - Student ID photo
+       
   b. Student Card Region Extraction
     - Detected card region using contour-based localization
     - Cropped the card area for improved matching
+    
   c. Optical Flow Tracking
     - Computed motion of feature points between frames
     - Visualized motion using directional arrows
       
-5. Part 4 (40–60s): Freestyle Section
+6. Part 4 (40–60s): Freestyle Section
    - Combined multiple image processing and tracking methods
    - Added custom visual effects based on motion and object behavior
    - Produced a creative final sequence
      
-6. Output Video Generation
+7. Output Video Generation
    - Combined all processed frames into a single output video
    - Exported the final sequence in MP4 format
      
